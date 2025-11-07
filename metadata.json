@@ -1,0 +1,5 @@
+{
+  "name": "Trình  tạo nhạc suno",
+  "description": "Tạo các prompt có cấu trúc chuyên nghiệp cho việc tạo nhạc bằng Suno AI. Chọn phong cách, thêm lời bài hát, và tạo ra một prompt sẵn sàng sử dụng.",
+  "requestFramePermissions": []
+}
